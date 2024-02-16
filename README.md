@@ -9,7 +9,7 @@ This project is built using [Next.js](https://nextjs.org/), a React framework th
 First, clone the repository or download the source code to your local machine.
 
 ```bash
-git clone from the repository
+git clone https://github.com/gitbiruk2010/Next.js-Application
 cd your-next-app
 Prerequisites
 Ensure you have Node.js installed on your system to run this project. This project was built using Node.js version X.XX.X (replace with your version).
